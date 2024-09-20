@@ -16,6 +16,8 @@ More info:
   is visualized with a letter on the file and for png file with some color, different trips are with different
   letters or different colors )
 
+View files TEXTFILE and PNGFILE_EXAMPLE to understand better!
+
 Conclusion:
 
 Small app that can work with DIFFERENT files (SQL and Excel) to extract info from tables,
