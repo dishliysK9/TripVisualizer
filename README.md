@@ -17,6 +17,7 @@ More info:
   letters or different colors )
 
 Conclusion:
+
 Small app that can work with DIFFERENT files (SQL and Excel) to extract info from tables,
 has a basic gui to give the program the driver - of which we want to see trips, 
 and has DIFFERENT options for an outputfile ( PNG and .txt) , which when generated 
